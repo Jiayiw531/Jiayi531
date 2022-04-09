@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kayla0531
-- 👀 I’ve currently started learning machine learning
-- 📫 How to reach me: kayla0531@163.com / kaylawang0531@gmail.com
+- 👀 I am first year CS major in Georgia tech
+- 📫 How to reach me: kaylawang0531@gmail.com / jiayiw@gatech.edu
 
 <!---
 Kayla0531/Kayla0531 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
