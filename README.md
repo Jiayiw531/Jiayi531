@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kayla0531
-- 👀 I am a first-year CS major in Georgia tech
+- 👀 I am GAtech 25 CS major
 - 📫 How to reach me: kaylawang0531@gmail.com / jiayiw@gatech.edu
 
 <!---
