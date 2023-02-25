@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kayla0531
+- 👋 Hi, I’m @Jiayiw0531
 - 👀 I am GAtech 25 CS major
 - 📫 How to reach me: kaylawang0531@gmail.com / jiayiw@gatech.edu
 
